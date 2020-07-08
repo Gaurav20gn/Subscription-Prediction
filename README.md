@@ -1,0 +1,2 @@
+# Subscription-Prediction
+ I have worked on financial application data and predict the customer who will take a premium version app subscription or not. Then the company will take action on the customers to give the offers or not. The data contain the customer’s behavior and our job to find the insights from it. To complete this project, I have used python programming and its libraries NumPy, Pandas, Matplotlib, and Seaborn.
